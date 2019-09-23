@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "683763352318",
+    "firebase_url": "https://portal-biblia-para-casais.firebaseio.com",
+    "project_id": "portal-biblia-para-casais",
+    "storage_bucket": "portal-biblia-para-casais.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:683763352318:android:3cd0236061100dc2",
+        "android_client_info": {
+          "package_name": "com.digitalborder.bibliaparacasais"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "683763352318-ah2lhes1ps31unvroc3a9j5cjk8ml7dv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDXKMdBGHyntAZjQmiyYqWOrymnpFeGcr8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "683763352318-ah2lhes1ps31unvroc3a9j5cjk8ml7dv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
